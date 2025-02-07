@@ -6,6 +6,7 @@ START_TIME=$(date +%s)
 
 ARGOCD_TOKEN="..."
 ARGOCD_URL="..."
+APP_NAME="..."
 
 echo_exit() {
   echo "$1"
